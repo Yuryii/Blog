@@ -1,5 +1,5 @@
 <Solution>
-  <Project Path="src/Blog.Api/Blog.Api.csproj" />
+  <Project Path="src/Blog.Api/Blog.Api.csproj" Id="9f166cd8-59ae-4a26-829e-00dec4a0013f" />
   <Project Path="src/Blog.Core/Blog.Core.csproj" />
   <Project Path="src/Blog.Data/Blog.Data.csproj" />
   <Project Path="src/Blog.WebApp/Blog.WebApp.csproj" />
